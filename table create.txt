@@ -1,0 +1,55 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>Hello, World!</title>
+    <link rel="stylesheet" href="styles.css" />
+  </head>
+  <body>
+      <table border="width:100">
+      <tr>
+        <th>DAY</th>
+        <th>9.00-11.10</th>
+        <th>11.00-12.50</th>
+        <th>12.50-1.50</th>
+        <th>1.50-3.30</th>
+        <th>3.30-4.20</th>
+        </tr>
+        <tr>
+      <td>monday</td>
+      <td colspan="2">eng</td>
+      <th rowspan="5">lunch</th>
+      <td>hindi</td>
+      <td>social</td>
+      </tr>
+      <tr>
+        <td>tuesday</td>
+        <td>tel</td>
+        <td>social</td>
+        <td>maths</td>
+        <td>games</td>
+      </tr>
+      <tr>
+        <td>wednesday</td>
+        <td>games</td>
+        <td>social</td>
+        <td>maths</td>
+        <td>telugu</td>
+      </tr>
+      <tr>
+        <td>thursday</td>
+        <td>telugu</td>
+        <td>social</td>
+        <td>eng</td>
+        <td>telugu</td>
+      </tr>
+      <tr>
+        <td>friday</td>
+        <td>games</td>
+        <td>social</td>
+        <td>maths</td>
+        <td>telugu</td>
+      </tr>
+      </table>
+    
+  </body>
+</html>

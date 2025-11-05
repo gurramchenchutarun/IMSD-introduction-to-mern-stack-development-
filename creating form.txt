@@ -1,0 +1,53 @@
+<!DOCTYPE html>
+<html>
+  <head> 
+  <title> working with form elements</title>
+  </head>
+  <body>
+    <label>user name:</label>
+    <input type="user name" size="20">
+    <p>
+     <label>password:</label>
+    <input type="password" size="10">
+    </p>
+    <p>
+     <label>gender:</label>
+    <input type= "radio" name="gender">male
+     <input type= "radio" name="gender">female
+      <input type= "radio" name="gender">others
+      </p>
+       <label>hobbies:</label>
+    <input type= "checkbox" name="hobbies">cricet
+     <input type= "checkbox" name="hobbies">football
+      <input type= "checkbox" name="hobbies">others
+      <p>
+        <label>month names:</label>
+        <select name="tarun">
+         <option>jan</option>
+         <option>feb</option>
+         <option>mar</option>
+         <option>april</option>
+         <option>may</option>
+         <option>jun</option>
+         <option>july</option>
+                
+        </select>
+      </p>
+      <label>Email:</label>
+      <input type="Email" size="40">
+      <p>
+        <label>date of birth</label>
+        <input type="date">
+      </p>
+      <label>age:</label>
+      <input type="number" size ="5">
+      <p>
+        <label>upload:</label>
+      <input type="file">
+      </p>
+        <label>address:</label>
+      <textarea rows="10" cols="20">
+      </textarea>
+      <img src="C:\Users\GURRAM CHENCHU TARUN\OneDrive\Pictures\Jai shree ram.jpeg" height="100" width="50" alt="god photo">
+  </body>
+</html>
